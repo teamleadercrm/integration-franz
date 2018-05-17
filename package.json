@@ -1,0 +1,13 @@
+{
+  "id": "teamleader",
+  "name": "Teamleader",
+  "version": "1.0",
+  "description": "Teamleader",
+  "main": "index.js",
+  "author": "Marc Westermann <westermann.m@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.teamleader.eu",
+    "hasNotificationSound": false
+  }
+}
